@@ -12,5 +12,6 @@ I was just sitting on my chair one day, doing absolutely nothing. Then i remembe
 5) https://romsfun.com/roms/nes/ - For some testing with different roms
 
 # Pictorial References
-<img width="1457" height="1600" alt="ch341" src="https://github.com/user-attachments/assets/6abd824c-c434-4262-af11-da03ce3c259a" />
 The CH341 programmer kit along with the SOIC8 chip
+<img width="1457" height="1600" alt="ch341" src="https://github.com/user-attachments/assets/6abd824c-c434-4262-af11-da03ce3c259a" />
+
